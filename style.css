@@ -170,6 +170,11 @@ body {
         width: 200px;
         padding: 1rem;
     }
+    .logo-img {
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 1.5rem;
+}
 
     .nav-links.active {
         display: flex;
@@ -183,3 +188,4 @@ body {
         font-size: 2.2rem;
     }
 }
+
